@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Учеба\\Projects\\EscapeFromConsole\\EscapeFromConsole\\TreasureHunter.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter\\EscapeFromConsole\\TreasureHunter.csproj",
       "projectName": "TreasureHunter",
-      "projectPath": "C:\\Users\\User\\Desktop\\Учеба\\Projects\\EscapeFromConsole\\EscapeFromConsole\\TreasureHunter.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter\\EscapeFromConsole\\TreasureHunter.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Учеба\\Projects\\EscapeFromConsole\\EscapeFromConsole\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter\\EscapeFromConsole\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
