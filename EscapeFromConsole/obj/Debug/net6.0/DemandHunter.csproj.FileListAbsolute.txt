@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\DemandHunter.exe
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\DemandHunter.deps.json
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\DemandHunter.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\DemandHunter.dll
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\DemandHunter.pdb
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\DemandHunter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\DemandHunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\DemandHunter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\DemandHunter.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\DemandHunter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\DemandHunter.dll
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\refint\DemandHunter.dll
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\DemandHunter.pdb
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\DemandHunter.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\ref\DemandHunter.dll

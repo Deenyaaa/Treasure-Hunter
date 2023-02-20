@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\EscapeFromConsole.exe
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\EscapeFromConsole.deps.json
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\EscapeFromConsole.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\EscapeFromConsole.dll
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\EscapeFromConsole.pdb
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\EscapeFromConsole.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\EscapeFromConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\EscapeFromConsole.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\EscapeFromConsole.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\EscapeFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\EscapeFromConsole.dll
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\refint\EscapeFromConsole.dll
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\EscapeFromConsole.pdb
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\EscapeFromConsole.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\ref\EscapeFromConsole.dll

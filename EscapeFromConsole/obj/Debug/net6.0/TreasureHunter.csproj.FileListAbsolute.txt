@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\TreasureHunter.exe
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\TreasureHunter.deps.json
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\TreasureHunter.runtimeconfig.json
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\TreasureHunter.dll
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\bin\Debug\net6.0\TreasureHunter.pdb
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\TreasureHunter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\TreasureHunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\TreasureHunter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\TreasureHunter.AssemblyInfo.cs
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\TreasureHunter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\TreasureHunter.dll
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\refint\TreasureHunter.dll
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\TreasureHunter.pdb
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\TreasureHunter.genruntimeconfig.cache
+C:\Users\User\Desktop\Учеба\Projects\EscapeFromConsole\EscapeFromConsole\obj\Debug\net6.0\ref\TreasureHunter.dll
