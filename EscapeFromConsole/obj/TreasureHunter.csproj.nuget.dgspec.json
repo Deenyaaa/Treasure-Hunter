@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter\\EscapeFromConsole\\TreasureHunter.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter-Edit\\EscapeFromConsole\\TreasureHunter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter\\EscapeFromConsole\\TreasureHunter.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter-Edit\\EscapeFromConsole\\TreasureHunter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter\\EscapeFromConsole\\TreasureHunter.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter-Edit\\EscapeFromConsole\\TreasureHunter.csproj",
         "projectName": "TreasureHunter",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter\\EscapeFromConsole\\TreasureHunter.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter-Edit\\EscapeFromConsole\\TreasureHunter.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter\\EscapeFromConsole\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\Treasure-Hunter-Edit\\EscapeFromConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
